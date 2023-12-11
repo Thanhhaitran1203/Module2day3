@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d91091f-045f-4695-839a-3162dbd8a973" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../day2/BaiTap1/src/Baitap1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../B4 Git+HTML/demo1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../B4 Git+HTML/demo2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../B4 Git+HTML/demo3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../B5 Form+Table/form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../B5 Form+Table/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../B5 Form+Table/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../B5 Form+Table/searchform.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../B5 Form+Table/simpleform.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../img/ava.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../img/icons8-facebook.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../img/icons8-google.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../minitest/minitestmodule1/minitest2.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2ZNN0xaGIxue1fvIBOLQi86S3hl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "D:/codegym/module2/day3/StudentArray/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d91091f-045f-4695-839a-3162dbd8a973" name="Changes" comment="" />
+      <created>1702258360773</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702258360773</updated>
+      <workItem from="1702258361794" duration="3751000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a136e52-d296-4195-85fb-27264985ad29" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../day2/BaiTap1/src/Baitap1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../B4 Git+HTML/demo1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../B4 Git+HTML/demo2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../B4 Git+HTML/demo3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../B5 Form+Table/form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../B5 Form+Table/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../B5 Form+Table/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../B5 Form+Table/searchform.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../B5 Form+Table/simpleform.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../img/ava.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../img/icons8-facebook.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../img/icons8-google.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../minitest/minitestmodule1/minitest2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../minitest/minitest1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../minitest/minitest1/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2ZNL55BukNit9D2NXy1bH4yMuUH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/codegym/module2/minitest/minitest1/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a136e52-d296-4195-85fb-27264985ad29" name="Changes" comment="" />
+      <created>1702257403283</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702257403283</updated>
+      <workItem from="1702257404307" duration="49000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
